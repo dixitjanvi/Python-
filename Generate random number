@@ -1,0 +1,6 @@
+//Generate Random Number//
+
+import random
+
+num = random.randint(1, 100)
+print("Random number between 1 and 100:", num)
